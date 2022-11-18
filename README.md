@@ -11,6 +11,7 @@
 ````
 
 ## Model
+Different activation functions and layer configurations were tried, but `relu` in combination with 2 convolutional layers and MaxPooling layers worked best.
 Please have a look at the [notebook](asl-classification.ipynb).
 
 ## Results

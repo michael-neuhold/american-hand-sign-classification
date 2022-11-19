@@ -11,14 +11,5 @@
 ````
 
 ## Model
-Different activation functions and layer configurations were tried, but `relu` in combination with 2 convolutional layers and MaxPooling layers worked best.
+After loading data from google drive in colab and preprocessing the image data into the right shape - different models have been implemented and evaluated. 
 Please have a look at the [notebook](asl-classification.ipynb).
-
-## Results
-
-### Training
-![loss](./_img/loss.png)
-![accuracy](./_img/accuracy.png)
-
-### Test
-Best evaluation result on test data: **97.27% accuracy**
